@@ -10,8 +10,7 @@
                                                           
                                                           
                                     
- I'm Gustavo Rocha 👋
-16 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer 
+
 
 
 
