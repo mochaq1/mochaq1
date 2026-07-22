@@ -1,41 +1,18 @@
-<h3 text-align="center">
-
-**Hey there, I'm Gustavo 👋**</h3>
-
+<br />
 
 <div align="center">
 
+### **Hey there, I'm Gustavo 👋**
 
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=001AA1&background=FF005C00&center=true&vCenter=true&width=435&lines=%5B+Aspiring+Backend+Engineer%F0%9F%92%BB%5D;%5BGustavo+Rocha+-+16y%E2%9A%A1%5D;%5BLinux+Enthusiast++%F0%9F%90%A7%5D)](https://git.io/typing-svg)
 
-
-
-
-<br/>
-<div>
-
-</div>  
-
-<br/> *
-
-
-<br/>
-
-  
-                                                          
-                                                          
-                                    
-
-
-
+<br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochaq1&theme=midnight-purple&hide_border=true&border_radius=30&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-<br/>
 
 </div>
-
-
 
 
 ## 💡 Interests
