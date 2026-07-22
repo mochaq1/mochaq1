@@ -1,16 +1,21 @@
+<h3>
+
+**Hey there, I'm Gustavo 👋**</h3>
+
+
 <div align="center">
 
 
 **Hey there, I'm Gustavo 👋**
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=001AA1&background=FF005C00&center=true&vCenter=true&width=435&lines=%5B+Aspiring+Backend+Engineer%F0%9F%92%BB%5D;%5BGustavo+Rocha+-+16y%E2%9A%A1%5D;%5BLinux+Enthusiast++%F0%9F%90%A7%5D)](https://git.io/typing-svg)
 
 
 
 
 <br/>
 <div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=001AA1&background=FF005C00&center=true&vCenter=true&width=435&lines=%5B+Aspiring+Backend+Engineer%F0%9F%92%BB%5D;%5BGustavo+Rocha+-+16y%E2%9A%A1%5D;%5BLinux+Enthusiast++%F0%9F%90%A7%5D)](https://git.io/typing-svg)
+
 </div>  
 
 <br/> *
