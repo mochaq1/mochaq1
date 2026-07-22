@@ -4,16 +4,19 @@
 <br/>
 
 
-
 <br/><br/>
 
-git clone https://github.com/g-laliotis/ascii-art.git cd ascii-art go run ./cmd/ascii-art "Hello World" # Using Makefile make build ./ascii-art "Hello!" # Run tests make test
+  
+                                                          
+                                                          
                                     
  I'm Gustavo Rocha 👋
 16 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer 
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochaq1&theme=midnight-purple&hide_border=true&border_radius=30&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+<br/>
 
 </div>
 
