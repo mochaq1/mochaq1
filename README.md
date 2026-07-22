@@ -17,6 +17,34 @@ Hey there, I'm Gustavo Rocha 👋
 
 </div>
 
+
+
+ <h2> ## 🗂️ // USER_DIRECTORY_TREE
+
+```bash
+mochaq1@matrix:~$ tree ./gustavo_rocha
+./gustavo_rocha
+├── 📁 about_me
+│   ├── 📄 age.txt             # 16
+│   ├── 📄 base_location.sys   # Brazil
+│   └── 📄 roles.cfg           # Aspiring Backend Eng. & Data Analyst
+├── 📁 neural_implants_and_skills
+│   ├── 📁 backend
+│   │   └── ⚙️ c_sharp.exe       # Focus: Active
+│   ├── 📁 frontend
+│   │   ├── 🌐 html_core.sh    # Done
+│   │   └── 🎨 css_style.sh    # Done
+│   └── 📁 infrastructure
+│       ├── 🐧 linux.kernel    # Daily Driver
+│       └── 🛡️ cyber_sec.log   # Offensive & Defensive basics
+├── 📁 automation_tools
+│   └── 🤖 n8n_workflows.sh    # Eliminating boring tasks
+└── 📁 current_objectives
+    ├── 🎯 master_csharp.task
+    └── 🏗️ build_apis.task
+
+5 directories, 11 files </h2>
+
 ## 💡 Interests
 I'm really into backend systems and data analysis — APIs, servers, databases, and how everything connects behind the scenes. Linux is basically my home at this point. I also love automating stuff and scripting, making boring tasks just disappear. Oh, and I casually find cybersecurity fascinating — not planning to go into it professionally right now, I just think it's super cool to understand how things can be broken and protected in the digital world.
 
