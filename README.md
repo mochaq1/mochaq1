@@ -11,8 +11,7 @@
 <br/><br/>
 
 Hey there, I'm Gustavo Rocha 👋
-16 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer & Data Analyst
-Building the foundations today to architect the systems of tomorrow.
+16 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer 
 
 <br/>
 
@@ -22,12 +21,12 @@ Building the foundations today to architect the systems of tomorrow.
 I'm really into backend systems and data analysis — APIs, servers, databases, and how everything connects behind the scenes. Linux is basically my home at this point. I also love automating stuff and scripting, making boring tasks just disappear. Oh, and I casually find cybersecurity fascinating — not planning to go into it professionally right now, I just think it's super cool to understand how things can be broken and protected in the digital world.
 
 ## 🧑‍💻 About Me
-🎓 High school student with a serious passion for technology and the cyberpunk aesthetic.
+🎓 High school student 
 🔧 Currently diving deep into **C#** and Backend Development.
-🐧 Linux enthusiast — the terminal is my comfort zone.
+🐧 **Linux enthusiast** — the terminal is my comfort zone.
 🧠 Solid foundations in logic, HTML, and CSS.
 📚 Always learning something new, every single day.
-🌎 Based in Brazil | Intermediate English speaker.
+🌎 Based in **Brazil** | Intermediate English speaker.
 
 ## 🛠️ Current Skills
 
