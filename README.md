@@ -8,7 +8,7 @@
 <br/>
 
 
-<br/># Hey there, I'm Gustavo 👋
+<br/> **Hey there, I'm Gustavo 👋**
  
 **15 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer**
 
