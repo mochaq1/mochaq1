@@ -7,27 +7,13 @@
 
 <br/><br/>
 
- _    _          _   _           _  
-| |  | |        | | | |         | | 
-| |__| |   ___  | | | |   ___   | | 
-|  __  |  / _ \ | | | |  / _ \  | | 
-| |  | | |  __/ | | | | | (_) | |_| 
-|_|  |_|  \___| |_| |_|  \___/  (_) 
+git clone https://github.com/g-laliotis/ascii-art.git cd ascii-art go run ./cmd/ascii-art "Hello World" # Using Makefile make build ./ascii-art "Hello!" # Run tests make test
                                     
  I'm Gustavo Rocha 👋
 16 y/o developer from Brazil 🇧🇷 | Aspiring Backend Engineer 
 
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochaq1&theme=matrix&hide_border=false&border=00ff66&background=000000" alt="GitHub Streak" />
-</div>
-
-
-<div align="center">
-  <img src="https://readme-jokes-two.vercel.app/api?theme=matrix&bgColor=000000&borderColor=00ff66" alt="Dev Quote" />
-</div>
-<br/>
 
 </div>
 
