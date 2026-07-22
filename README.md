@@ -14,13 +14,6 @@
 
 I'm really into backend systems and data analysis — APIs, servers, databases, and how everything connects behind the scenes. Linux is basically my home at this point. I also love automating stuff and scripting, making boring tasks just disappear. Oh, and I casually find cybersecurity fascinating — not planning to go into it professionally right now, I just think it's super cool to understand how things can be broken and protected in the digital world.
 
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochaq1&theme=midnight-purple&hide_border=true&border_radius=30&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-
-</div>
-
 ## 🧑‍💻 About Me
 
 🎓 High school student  
@@ -42,3 +35,9 @@ I'm really into backend systems and data analysis — APIs, servers, databases, 
 </div>
 
 <br />
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochaq1&theme=midnight-purple&hide_border=true&border_radius=30&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+
+</div>
